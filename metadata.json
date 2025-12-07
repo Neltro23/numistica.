@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Numisma AI",
+  "description": "A premium coin collection manager powered by Gemini AI for automatic identification and cataloging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
