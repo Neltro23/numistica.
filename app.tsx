@@ -15,7 +15,7 @@ const uuidv4 = () => {
   });
 };
 
-const App: React.FC = () => {
+const app: React.FC = () => {
   const [coins, setCoins] = useState<Coin[]>([]);
   const [isAddModalOpen, setIsAddModalOpen] = useState(false);
   const [selectedCoin, setSelectedCoin] = useState<Coin | null>(null);
